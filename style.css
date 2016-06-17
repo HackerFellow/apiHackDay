@@ -1,0 +1,7 @@
+.headerSortUp:after {
+	content: "▲";
+}
+
+.headerSortDown:after {
+	content: "▼";
+}
